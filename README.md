@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/AngryCFO/AQA-API-CI_2/actions/workflows/gradle.yml/badge.svg)](https://github.com/AngryCFO/AQA-API-CI_2/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/AngryCFO/AQA-API-CI_2/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/AngryCFO/AQA-API-CI_2/actions/workflows/gradle.yml)
 # 2.2 Домашнее задание к занятию «1.2. Тестирование API, CI » Задача 3.
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
